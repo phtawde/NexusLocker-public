@@ -111,20 +111,20 @@ You can safely hide these files in your IDE if you'd like.
 
 ### Architecture
 
-<img width="2212" height="897" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/b94d7cd1-a40f-447c-b66a-6fb095d1e2fa" />
+<img width="2212" height="897" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/63c60b83-d4e3-45b4-b7a9-059a525869dd" />
 
 ### Classes
 
-<img width="822" height="1057" alt="Class Diagram drawio" src="https://github.com/user-attachments/assets/79137925-ca6e-4dff-a3ec-f3695c59631b" />
+<img width="822" height="1057" alt="Class Diagram drawio" src="https://github.com/user-attachments/assets/6cae1001-700f-4fb4-bec2-9ae3f1e60e1c" />
 
 ### State Chart (Cart)
 
-<img width="767" height="76" alt="Cart State Chart drawio" src="https://github.com/user-attachments/assets/6e8011b6-f893-415a-a2b8-dba3c7860873" />
+<img width="767" height="76" alt="Cart State Chart drawio" src="https://github.com/user-attachments/assets/6448f5a6-ca8f-4499-bd67-d0721200ed16" />
 
 ### Sequence (Checkout)
 
-<img width="727" height="374" alt="Checkout Sequence drawio" src="https://github.com/user-attachments/assets/8f4c996d-b4d7-4219-8bc6-90834552e08c" />
+<img width="727" height="374" alt="Checkout Sequence drawio" src="https://github.com/user-attachments/assets/61aa029c-3e4d-4a12-88a5-b93ddfdd673a" />
 
 ### Use Case
 
-<img width="403" height="912" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/43b9885b-afbe-4c59-ad8d-87c5f4ccf1f2" />
+<img width="403" height="912" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/022b73e4-2de7-4f94-b31d-c9c107a846cb" />
