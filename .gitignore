@@ -1,0 +1,47 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# React
+node_modules/
+dist/
+dist-ssr/
+.vite/
+*.local
+
+# Logs and temp
+logs/
+*.log
+*.tmp
+*.bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# VS Code
+.vscode/*
+
+# IDEA
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
