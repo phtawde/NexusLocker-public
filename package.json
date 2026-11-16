@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "concurrently -k -n FLASK, VITE -c blue.green \"npm:dev:flask\" \"npm:dev:react\"",
+    "dev:flask": "python -m flask --app backend.app run --debug --port 5000",
+    "dev:react": "npm --prefix frontend run dev"
+  },
+  "dependencies": {
+    "plugin-react": "^0.0.1-security",
+    "react": "^19.3.1",
+    "react-router-dom": "^7.18.4",
+    "vite": "^8.3.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.3.0",
+    "concurrently": "^10.0.6"
+  }
+}

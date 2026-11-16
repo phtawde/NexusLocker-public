@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "productName": "ASUS ExpertBook B9 OLED",
+        "category": "Laptop",
+        "price": 1599.99,
+        "stock": 999,
+        "description": "Business-focused ExpertBook laptop designed for professional mobility, dependable office productivity, and a polished enterprise-oriented design.",
+        "dateAdded": "2026-10-01 09:00:00"
+    },
+    {
+        "id": 2,
+        "productName": "Chromebook CM14",
+        "category": "Laptop",
+        "price": 349.99,
+        "stock": 999,
+        "description": "14-inch Chromebook designed to deliver smart everyday performance in a simple, stylish form for work, study, and web-based tasks.",
+        "dateAdded": "2026-10-02 09:00:00"
+    },
+    {
+        "id": 3,
+        "productName": "TUF Gaming A15",
+        "category": "Laptop",
+        "price": 1399.99,
+        "stock": 999,
+        "description": "Compact gaming laptop in the TUF Gaming line built for portable play, durable everyday use, and strong mainstream gaming performance.",
+        "dateAdded": "2026-10-03 09:00:00"
+    },
+    {
+        "id": 4,
+        "productName": "TUF Gaming A16 Advantage Edition",
+        "category": "Laptop",
+        "price": 1499.99,
+        "stock": 999,
+        "description": "Larger-format TUF Gaming laptop designed for immersive gaming, everyday performance, and dependable use in a rugged gaming-focused chassis.",
+        "dateAdded": "2026-10-04 09:00:00"
+    },
+    {
+        "id": 5,
+        "productName": "ROG Zephyrus M16",
+        "category": "Laptop",
+        "price": 2199.99,
+        "stock": 999,
+        "description": "Premium ROG gaming laptop that blends a thinner, more refined design with high-end gaming and creator-oriented performance.",
+        "dateAdded": "2026-10-05 09:00:00"
+    },
+    {
+        "id": 6,
+        "productName": "ROG Flow Z13",
+        "category": "Tablet",
+        "price": 1799.99,
+        "stock": 999,
+        "description": "Portable gaming tablet/2-in-1 device designed for users who want gaming performance in a more flexible detachable form factor.",
+        "dateAdded": "2026-10-06 09:00:00"
+    },
+    {
+        "id": 7,
+        "productName": "ZenScreen OLED",
+        "category": "Monitor",
+        "price": 399.99,
+        "stock": 999,
+        "description": "Portable OLED monitor designed to improve multitasking on the go, with ASUS positioning it around portability, OLED visual quality, and a refined mobile-friendly connectivity layout.",
+        "dateAdded": "2026-10-07 09:00:00"
+    },
+    {
+        "id": 8,
+        "productName": "TUF 27 Gaming Monitor ",
+        "category": "Monitor",
+        "price": 329.99,
+        "stock": 999,
+        "description": "Gaming monitor in the TUF lineup designed for smooth motion, competitive play, and strong value in a performance-focused desktop setup.",
+        "dateAdded": "2026-10-08 09:00:00"
+    },
+    {
+        "id": 9,
+        "productName": "ROG Swift OLED",
+        "category": "Monitor",
+        "price": 999.99,
+        "stock": 999,
+        "description": "High-end 1440p OLED gaming monitor designed for competitive play, featuring an ultra-fast 480Hz refresh rate and extremely low response time for premium esports-focused performance.",
+        "dateAdded": "2026-10-09 09:00:00"
+    },
+    {
+        "id": 10,
+        "productName": "ASUS RT-BE96U",
+        "category": "Router",
+        "price": 159.99,
+        "stock": 999,
+        "description": "Compact dual-band WiFi 7 router designed for travel, home, and work use, with support for mobile tethering, public WiFi mode, and wireless speeds up to 3600 Mbps.",
+        "dateAdded": "2026-10-10 09:00:00"
+    },
+    {
+        "id": 11,
+        "productName": "ROG Harpe Ace Aim Lab Edition Gaming Mouse",
+        "category": "Mouse",
+        "price": 149.99,
+        "stock": 999,
+        "description": "Lightweight gaming mouse designed for fast movement, precise aiming, and streamlined competitive gaming use.",
+        "dateAdded": "2026-10-11 09:00:00"
+    },
+    {
+        "id": 12,
+        "productName": "Zenbook Pro 14 Duo OLED",
+        "category": "Laptop",
+        "price": 1999.99,
+        "stock": 999,
+        "description": "Dual-screen Copilot+ laptop designed for advanced multitasking and creative workflows, built around Intel Core Ultra processors and a 3K OLED display configuration.",
+        "dateAdded": "2026-10-12 09:00:00"
+    },
+    {
+        "id": 13,
+        "productName": "Vivobook 16 OLED",
+        "category": "Laptop",
+        "price": 749.99,
+        "stock": 999,
+        "description": "Larger-screen Copilot+ Vivobook intended for everyday computing, pairing Intel Core Ultra platform features with a 16-inch display for productivity and general use.",
+        "dateAdded": "2026-10-13 09:00:00"
+    },
+    {
+        "id": 14,
+        "productName": "Vivobook S 16 Flip OLED",
+        "category": "Laptop",
+        "price": 1099.99,
+        "stock": 999,
+        "description": "Larger convertible Vivobook designed for flexible touchscreen productivity, media use, and laptop-to-tablet versatility.",
+        "dateAdded": "2026-10-14 09:00:00"
+    },
+    {
+        "id": 15,
+        "productName": "ExpertBook B3 Flip",
+        "category": "Laptop",
+        "price": 899.99,
+        "stock": 999,
+        "description": "Work-focused business laptop in the ExpertBook line, positioned as an AI PC with modern Intel platform options and business-friendly features for day-to-day professional use.",
+        "dateAdded": "2026-10-15 09:00:00"
+    },
+    {
+        "id": 16,
+        "productName": "ZenScreen Go",
+        "category": "Monitor",
+        "price": 499.99,
+        "stock": 999,
+        "description": "Portable smart display designed for flexible personal setups, casual productivity, and adaptable entertainment use.",
+        "dateAdded": "2026-10-16 09:00:00"
+    },
+    {
+        "id": 17,
+        "productName": "ROG Swift 32 OLED",
+        "category": "Monitor",
+        "price": 1299.99,
+        "stock": 999,
+        "description": "Premium large-format ROG Swift OLED gaming monitor designed for immersive visuals, fast response, and enthusiast desktop gaming.",
+        "dateAdded": "2026-10-17 09:00:00"
+    },
+    {
+        "id": 18,
+        "productName": "ROG Rapture GT-BE98 Pro",
+        "category": "Router",
+        "price": 799.99,
+        "stock": 999,
+        "description": "High-end ROG gaming router designed for premium home networking, fast wireless performance, and low-latency multi-device gaming setups.",
+        "dateAdded": "2026-10-18 09:00:00"
+    },
+    {
+        "id": 19,
+        "productName": "ASUS ZenWiFi Hybrid XC5",
+        "category": "Router",
+        "price": 349.99,
+        "stock": 999,
+        "description": "Outdoor-oriented mesh networking device built to extend wireless coverage across larger areas and more challenging spaces.",
+        "dateAdded": "2026-10-19 09:00:00"
+    },
+    {
+        "id": 20,
+        "productName": "ROG Phone 6",
+        "category": "Smartphone",
+        "price": 999.99,
+        "stock": 999,
+        "description": "Gaming smartphone built for high-performance mobile play while still serving as a premium everyday Android phone.",
+        "dateAdded": "2026-10-20 09:00:00"
+    },
+    {
+        "id": 21,
+        "productName": "ROG Phone 6 Pro",
+        "category": "Smartphone",
+        "price": 1199.99,
+        "stock": 999,
+        "description": "Flagship gaming smartphone powered by Snapdragon 8 Gen 3, designed for high-performance mobile gaming while also delivering premium everyday smartphone features.",
+        "dateAdded": "2026-10-21 09:00:00"
+    }
+]
